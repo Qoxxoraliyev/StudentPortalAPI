@@ -43,13 +43,6 @@ StudentPortalAPI is a **Spring Boot based RESTful API** for managing student reg
 | DELETE | `/api/student/{id}` | Delete student                 | ADMIN         |
 
 
-🔑 Authentication
-Register a new student via /api/register.
-Login via /api/authenticate with JSON body:
-{
-  "login": "studentLogin",
-  "password": "studentPassword"
-}
 
 👨‍💻 Author
 Muhammadali Qoxxoraliyev
